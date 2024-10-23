@@ -1,0 +1,6 @@
+Flask
+datetime
+numpy
+scikit-learn
+pandas
+Gunicorn
